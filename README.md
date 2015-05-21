@@ -7,4 +7,4 @@ I also free the variable's memory which assigned the possible string so that it 
 #Requirement
 It's only have to use PHP command line.
 #Dependency
-It depends on this package: Math_Combinatorics[http://pear.php.net/package/Math_Combinatorics]
+It depends on this package: [Math_Combinatorics](http://pear.php.net/package/Math_Combinatorics)
